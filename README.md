@@ -174,3 +174,7 @@ Para garantir que seu arquivo seja enviado para o local correto, siga exatamente
 | Paulo Cesar (SOLO)                                          | .find( )        |
 | Luan Victor Souza Alves e Lucileudo de Paiva Lopes          | .some( )        |
 |                                                             |                 |
+
+
+
+## 🛠️ QUALQUER DUVIDA ENTRAR EM CONTATO COM A PROFESSORA ROSANA PELO ZAP (85) 9413-2366
